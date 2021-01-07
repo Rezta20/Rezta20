@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<img src="https://media.giphy.com/media/U7bl3Rw7ya7isgzVt3/giphy.gif"> c8 xji c8 c8 c8 8c 
 ### Hi there 👋
 
 <!--
