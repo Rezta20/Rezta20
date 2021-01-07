@@ -1,4 +1,4 @@
-![](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+![](https://media.giphy.com/media/U7bl3Rw7ya7isgzVt3/giphy.gif =100%)
 ### Hi there 👋
 
 <!--
