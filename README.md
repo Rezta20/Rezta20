@@ -6,7 +6,8 @@
 ### :wrench: Skills
 ![skills-03](https://user-images.githubusercontent.com/63142258/104088656-6efaa900-52a3-11eb-91ab-097e75845778.png)
 
- 
+[![rezta20's github stats](https://github-readme-stats.vercel.app/api?username=rezta20&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezta20&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Rezta20/Rezta20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
