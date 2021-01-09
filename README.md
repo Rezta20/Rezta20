@@ -1,8 +1,8 @@
-![githubCover-02](https://user-images.githubusercontent.com/63142258/104089677-a0777280-52ab-11eb-9ea1-674b45661ae9.png)
+![githubCover-02](https://user-images.githubusercontent.com/63142258/104092453-09b4b100-52bf-11eb-991c-54a32e4cbc0d.png)
 ###### Hi there 👋 I start my coding journey from Apr,2020. Here is the place to share the project what I have done with the fantacy process
 
 ## :wrench: Skills
-![skills-03](https://user-images.githubusercontent.com/63142258/104088656-6efaa900-52a3-11eb-91ab-097e75845778.png)
+![skills-03](https://user-images.githubusercontent.com/63142258/104092454-0de0ce80-52bf-11eb-8d89-9b1d8b7f09a6.png)
 [![rezta20's github stats](https://github-readme-stats.vercel.app/api?username=rezta20&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezta20&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
