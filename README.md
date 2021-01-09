@@ -1,6 +1,8 @@
-![githubCover-02](https://user-images.githubusercontent.com/63142258/104087579-c1d06280-529b-11eb-864e-87f69fd27b78.png)
+![githubCover-02](https://user-images.githubusercontent.com/63142258/104087636-373c3300-529c-11eb-89e5-71f8620977fe.png)
 
-### Hi there 👋 Thanks to visit my page 
+ Hi there 👋 I start my coding journey from Apr,2020
+
+ 
 
 <!--
 **Rezta20/Rezta20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
