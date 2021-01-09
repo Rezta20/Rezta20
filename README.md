@@ -10,11 +10,11 @@
 ## :rocket: Projects
 | Project Name| Website | Repositories
 --- | :---: | :---:
-| :paw_prints: Happy Dog      | [See It](https://rezta20.github.io/HappyDog/html/homepage.html "Happy Dog") |[Read Me](https://rezta20.github.io/HappyDog/html/homepage.html "Happy Dog") 
-| :dress: STYLiSH      | [See It](https://rezta20.github.io/STYLiSH/stylish/html/index.html "STYLiSH") |[Read Me](https://rezta20.github.io/HappyDog/html/homepage.html "Happy Dog") 
-| :dog: Tindog      | [See It](https://rezta20.github.io/Tindog/ "Tindog") |[Read Me](https://rezta20.github.io/HappyDog/html/homepage.html "Happy Dog") 
-| :memo: Memo      | [See It](https://rezta20.github.io/React-exam/ "Memo") |[Read Me](https://rezta20.github.io/HappyDog/html/homepage.html "Happy Dog") 
-| :space_invader: RWD Layout      | [See It](https://rezta20.github.io/remote-assignments/week-2/index.html#item1 "RWD Layout") |[Read Me](https://rezta20.github.io/HappyDog/html/homepage.html "Happy Dog") 
+| :paw_prints: Happy Dog      | [See It](https://rezta20.github.io/HappyDog/html/homepage.html "Happy Dog") |[Read Me](https://github.com/Rezta20/HappyDog/tree/master) 
+| :dress: STYLiSH      | [See It](https://rezta20.github.io/STYLiSH/stylish/html/index.html "STYLiSH") |[Read Me](https://github.com/Rezta20/STYLiSH) 
+| :dog: Tindog      | [See It](https://rezta20.github.io/Tindog/ "Tindog") |[Read Me](https://github.com/Rezta20/Tindog) 
+| :memo: Memo      | [See It](https://rezta20.github.io/React-exam/ "Memo") |[Read Me](https://github.com/Rezta20/React-exam/tree/gh-pages) 
+| :space_invader: RWD Layout      | [See It](https://rezta20.github.io/remote-assignments/week-2/index.html#item1 "RWD Layout") |[Read Me](https://github.com/Rezta20/remote-assignments) 
 
 
 
