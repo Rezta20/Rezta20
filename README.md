@@ -1,6 +1,5 @@
-<p align="center">
 ![githubCover-02](https://user-images.githubusercontent.com/63142258/104087509-2b9c3c80-529b-11eb-8344-314c7faa6a10.png)
-</p>
+
 ### Hi there 👋
 
 <!--
