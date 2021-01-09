@@ -1,7 +1,6 @@
 ![githubCover-02](https://user-images.githubusercontent.com/63142258/104087636-373c3300-529c-11eb-89e5-71f8620977fe.png)
 
-###### Hi there 👋 I start my coding journey from Apr,2020
-###### Here is the place to share the project what I have done with the fantacy process
+###### Hi there 👋 I start my coding journey from Apr,2020. Here is the place to share the project what I have done with the fantacy process
 
 ### :wrench: Skills
 ![skills-03](https://user-images.githubusercontent.com/63142258/104088656-6efaa900-52a3-11eb-91ab-097e75845778.png)
