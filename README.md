@@ -1,4 +1,4 @@
-![githubCover-02 (1)](https://user-images.githubusercontent.com/63142258/104093073-2ce15f80-52c3-11eb-9495-edafc8a7a8d3.png)
+![githubCover-02-min](https://user-images.githubusercontent.com/63142258/104093229-1e477800-52c4-11eb-839f-d6f8e55a5cd0.png)
 
 
 ###### Hi there 👋 I start my coding journey from Apr,2020. Here is the place to share the project what I have done with the fantacy process
