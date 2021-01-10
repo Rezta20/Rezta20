@@ -14,7 +14,7 @@
 | :paw_prints: Happy Dog      | [See It](https://happydog-82c2f.web.app/Html/homepage.html "Happy Dog") |[Read Me](https://github.com/Rezta20/HappyDog/tree/master#paw_prints-happydog) 
 | :dress: STYLiSH      | [See It](https://rezta20.github.io/STYLiSH/stylish/html/index.html "STYLiSH") |[Read Me](https://github.com/Rezta20/STYLiSH#dress-stylish) 
 | :dog: Tindog      | [See It](https://rezta20.github.io/Tindog/ "Tindog") |[Read Me](https://github.com/Rezta20/Tindog/blob/master/README.md#dogtindog) 
-| :moneybag: Pricing     | [See It](https://rezta20.github.io/pricing/ "Pricing") |[Read Me](https://github.com/Rezta20/Tindog) 
+| :moneybag: Pricing     | [See It](https://rezta20.github.io/pricing/ "Pricing") |[Read Me](https://github.com/Rezta20/pricing/blob/master/README.md#moneybag-pricing) 
 | :relaxed: Personal CV      | [See It](https://rezta20.github.io/Tindog/ "Tindog") |[Read Me](https://github.com/Rezta20/Tindog) 
 | :memo: Memo      | [See It](https://rezta20.github.io/React-exam/ "Memo") |[Read Me](https://github.com/Rezta20/React-exam/tree/gh-pages) 
 | :space_invader: RWD Layout      | [See It](https://rezta20.github.io/remote-assignments/week-2/index.html#item1 "RWD Layout") |[Read Me](https://github.com/Rezta20/remote-assignments) 
