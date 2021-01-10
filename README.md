@@ -13,7 +13,7 @@
 --- | :---: | :---:
 | :paw_prints: Happy Dog      | [See It](https://happydog-82c2f.web.app/Html/homepage.html "Happy Dog") |[Read Me](https://github.com/Rezta20/HappyDog/tree/master#paw_prints-happydog) 
 | :dress: STYLiSH      | [See It](https://rezta20.github.io/STYLiSH/stylish/html/index.html "STYLiSH") |[Read Me](https://github.com/Rezta20/STYLiSH#dress-stylish) 
-| :dog: Tindog      | [See It](https://rezta20.github.io/Tindog/ "Tindog") |[Read Me](https://github.com/Rezta20/Tindog) 
+| :dog: Tindog      | [See It](https://rezta20.github.io/Tindog/ "Tindog") |[Read Me](https://github.com/Rezta20/Tindog/blob/master/README.md#dogtindog) 
 | :moneybag: Pricing     | [See It](https://rezta20.github.io/Tindog/ "Tindog") |[Read Me](https://github.com/Rezta20/Tindog) 
 | :relaxed: Personal CV      | [See It](https://rezta20.github.io/Tindog/ "Tindog") |[Read Me](https://github.com/Rezta20/Tindog) 
 | :memo: Memo      | [See It](https://rezta20.github.io/React-exam/ "Memo") |[Read Me](https://github.com/Rezta20/React-exam/tree/gh-pages) 
