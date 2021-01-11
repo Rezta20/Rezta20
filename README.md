@@ -20,8 +20,6 @@
 | :space_invader: RWD Layout      | [See It](https://rezta20.github.io/remote-assignments/week-2/index.html#item1 "RWD Layout") |[Read Me](https://github.com/Rezta20/remote-assignments/blob/master/README.md#space_invader-rwd-layout) 
 
 
-
-
 <!--
 **Rezta20/Rezta20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
