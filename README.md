@@ -11,7 +11,7 @@
 ## :rocket: Projects
 | Project Name| Website | Repositories
 --- | :---: | :---:
-| :paw_prints: Happy Dog      | [See It](https://happydog-82c2f.web.app/Html/homepage.html "Happy Dog") |[Read Me](https://github.com/Rezta20/HappyDog/tree/master) 
+| :paw_prints: Happy Dog      | [See It](https://happydog-82c2f.web.app/Html/homepage.html "Happy Dog") |[Read Me](https://github.com/Rezta20/HappyDog/tree/master/README.md#paw_printhappydog) 
 | :dress: STYLiSH      | [See It](https://rezta20.github.io/STYLiSH/stylish/html/index.html "STYLiSH") |[Read Me](https://github.com/Rezta20/STYLiSH) 
 | :dog: Tindog      | [See It](https://rezta20.github.io/Tindog/ "Tindog") |[Read Me](https://github.com/Rezta20/Tindog/blob/master/README.md#dogtindog) 
 | :moneybag: Pricing     | [See It](https://rezta20.github.io/pricing/ "Pricing") |[Read Me](https://github.com/Rezta20/pricing/blob/master/README.md#moneybag-pricing) 
