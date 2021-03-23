@@ -1,4 +1,4 @@
-<!--![githubCover-02](https://user-images.githubusercontent.com/63142258/104094096-c90e6500-52c9-11eb-9d9b-1836845ff61a.png)
+
 
 ###### Hi there 👋  I start my coding journey from Apr,2020. Here is the place to share the project what I have done with the fantacy process
 
@@ -19,7 +19,7 @@
 | :memo: Memo      | [See It](https://rezta20.github.io/React-exam/ "Memo") |[Read Me](https://github.com/Rezta20/React-exam/blob/gh-pages/README.md#memo-memo) 
 | :space_invader: RWD Layout      | [See It](https://rezta20.github.io/remote-assignments/week-2/index.html#item1 "RWD Layout") |[Read Me](https://github.com/Rezta20/remote-assignments/blob/master/README.md#space_invader-rwd-layout) 
 
-
+<!-- ![githubCover-02](https://user-images.githubusercontent.com/63142258/104094096-c90e6500-52c9-11eb-9d9b-1836845ff61a.png)
 <!--
 **Rezta20/Rezta20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
