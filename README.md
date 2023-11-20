@@ -4,18 +4,18 @@
 
 <!-- ## :wrench: Skills
 ![skills-03](https://user-images.githubusercontent.com/63142258/104092454-0de0ce80-52bf-11eb-8d89-9b1d8b7f09a6.png) -->
-[![rezta20's github stats](https://github-readme-stats.vercel.app/api?username=rezta20&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezta20&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![rezta20's github stats](https://github-readme-stats.vercel.app/api?username=rezta20&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezta20&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  -->
 
 
-## :rocket: Projects
+<!-- ## :rocket: Projects
 | Project Name| Website | Repositories
 --- | :---: | :---:
 | :paw_prints: Happy Dog      | [See It](https://happydog-82c2f.web.app/Html/homepage.html "Happy Dog") |[Read Me](https://github.com/Rezta20/HappyDog/tree/master) 
 | :dog: Tindog      | [See It](https://rezta20.github.io/Tindog/ "Tindog") |[Read Me](https://github.com/Rezta20/Tindog/blob/master/README.md#dogtindog) 
 | :moneybag: Pricing     | [See It](https://rezta20.github.io/pricing/ "Pricing") |[Read Me](https://github.com/Rezta20/pricing/blob/master/README.md#moneybag-pricing) 
 | :memo: Memo      | [See It](https://rezta20.github.io/React-exam/ "Memo") |[Read Me](https://github.com/Rezta20/React-exam/blob/gh-pages/README.md#memo-memo) 
-| :space_invader: RWD Layout      | [See It](https://rezta20.github.io/remote-assignments/week-2/index.html#item1 "RWD Layout") |[Read Me](https://github.com/Rezta20/remote-assignments/blob/master/README.md#space_invader-rwd-layout) 
+| :space_invader: RWD Layout      | [See It](https://rezta20.github.io/remote-assignments/week-2/index.html#item1 "RWD Layout") |[Read Me](https://github.com/Rezta20/remote-assignments/blob/master/README.md#space_invader-rwd-layout)  -->
 
 <!-- ![githubCover-02](https://user-images.githubusercontent.com/63142258/104094096-c90e6500-52c9-11eb-9d9b-1836845ff61a.png)
 <!--
