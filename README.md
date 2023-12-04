@@ -4,11 +4,11 @@
 #### Here is the place to share the project that I have done with the fantasy process.
 
 
- ![githubCover-02](https://user-images.githubusercontent.com/63142258/104094096-c90e6500-52c9-11eb-9d9b-1836845ff61a.png)
+ <!--![githubCover-02](https://user-images.githubusercontent.com/63142258/104094096-c90e6500-52c9-11eb-9d9b-1836845ff61a.png) -->
 
  
- ## :wrench: Skills
-![skills-03](https://user-images.githubusercontent.com/63142258/104092454-0de0ce80-52bf-11eb-8d89-9b1d8b7f09a6.png) 
+<!-- ## :wrench: Skills-->
+<!--![skills-03](https://user-images.githubusercontent.com/63142258/104092454-0de0ce80-52bf-11eb-8d89-9b1d8b7f09a6.png)-->
 
 <!--[![rezta20's github stats](https://github-readme-stats.vercel.app/api?username=rezta20&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezta20&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
