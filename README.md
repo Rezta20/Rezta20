@@ -17,7 +17,7 @@
 ## :rocket: Projects
 | Project Name| Website | Repositories|Date
 --- | :---: | :---: | :---:
-|Furlog|/|[Read Me](https://github.com/Rezta20/Furlog)|06/2025 - current
+| 🐕 Furlog|/|[Read Me](https://github.com/Rezta20/Furlog)|06/2025 - current
 | ☔ Weather Box_LED Cube   | / |[Read Me](https://github.com/Rezta20/WeatherBox_LEDCube) |09/2023
 | 🐕 Furs    | / |[Read Me](https://github.com/Rezta20/FurS) |02/2023
 | ☕ Coffee Shop     | [See it](https://rezta20.github.io/coffee-shop/) |[Read Me](https://github.com/Rezta20/coffee-shop/tree/masterr) |08/2022
